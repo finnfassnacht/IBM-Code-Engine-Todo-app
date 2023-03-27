@@ -1,0 +1,26 @@
+body {
+    background-color: #34312D;
+}
+#main_wrapper {
+
+    padding-top: 20px;
+}
+#wrapper{
+    padding: 10px;
+}
+.item {
+    color: white;
+    background-color: #437F97;
+    border-radius: 10px;
+    height: 50px;
+    text-align: center;
+}
+#done{
+    width: 30px;
+    height: 30px;
+    float: right;
+    position: relative;
+    top: 20%;
+    left: -1%;
+    background-color: #008148;
+}
